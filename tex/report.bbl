@@ -1,0 +1,60 @@
+\begin{thebibliography}{10}
+
+\bibitem{arai2007hierarchical}
+Kohei Arai and Ali~Ridho Barakbah.
+\newblock Hierarchical k-means: an algorithm for centroids initialization for
+  k-means.
+\newblock {\em Reports of the Faculty of Science and Engineering},
+  36(1):25--31, 2007.
+
+\bibitem{breiman1984classification}
+Leo Breiman, Jerome Friedman, Charles~J Stone, and Richard~A Olshen.
+\newblock {\em Classification and regression trees}.
+\newblock CRC press, 1984.
+
+\bibitem{brock2011clvalid}
+Guy Brock, Vasyl Pihur, Susmita Datta, Somnath Datta, et~al.
+\newblock clvalid, an r package for cluster validation.
+\newblock {\em Journal of Statistical Software (Brock et al., March 2008)},
+  2011.
+
+\bibitem{cestnik1991estimating}
+Bojan Cestnik and Ivan Bratko.
+\newblock On estimating probabilities in tree pruning.
+\newblock In {\em Machine Learning—EWSL-91}, pages 138--150. Springer, 1991.
+
+\bibitem{dunteman1989principal}
+George~H Dunteman.
+\newblock {\em Principal components analysis}, volume~69.
+\newblock Sage, 1989.
+
+\bibitem{hand2001simple}
+David~J Hand and Robert~J Till.
+\newblock A simple generalisation of the area under the roc curve for multiple
+  class classification problems.
+\newblock {\em Machine learning}, 45(2):171--186, 2001.
+
+\bibitem{japkowicz2002class}
+Nathalie Japkowicz and Shaju Stephen.
+\newblock The class imbalance problem: A systematic study.
+\newblock {\em Intelligent data analysis}, 6(5):429--449, 2002.
+
+\bibitem{kohavi1995study}
+Ron Kohavi et~al.
+\newblock A study of cross-validation and bootstrap for accuracy estimation and
+  model selection.
+\newblock In {\em Ijcai}, volume~14, pages 1137--1145, 1995.
+
+\bibitem{panda}
+T~Maeno.
+\newblock Panda: distributed production and distributed analysis system for
+  atlas.
+\newblock {\em Journal of Physics: Conference Series}, 119(6):062036, 2008.
+
+\bibitem{pelleg2000x}
+Dan Pelleg, Andrew~W Moore, et~al.
+\newblock X-means: Extending k-means with efficient estimation of the number of
+  clusters.
+\newblock In {\em ICML}, volume~1, 2000.
+
+\end{thebibliography}
